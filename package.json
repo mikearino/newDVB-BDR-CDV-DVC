@@ -1,0 +1,25 @@
+{
+  "name": "haiku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikearino/newDVB-BDR-CDV-DVC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikearino/newDVB-BDR-CDV-DVC/issues"
+  },
+  "homepage": "https://github.com/mikearino/newDVB-BDR-CDV-DVC#readme",
+  "dependencies": {
+    "webpack": "^4.19.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.9"
+  }
+}
